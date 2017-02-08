@@ -5,7 +5,7 @@ This is a repo containing the solutions to the problems from Applied Imaging Tec
 ##Tutorial 2
 - [x] Question 2
 - [x] Question 3
-- [ ] Question 4
+- [x] Question 4
 - [x] Question 5
 - [x] Question 6
 - [x] Question 7
