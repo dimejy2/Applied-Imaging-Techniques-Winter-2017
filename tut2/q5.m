@@ -1,4 +1,4 @@
-%%for some reason this works best with the 
+%%for some reason this works best with the head scan image
 function doubleimage(imagename)
 a= imread (imagename);
 figure
