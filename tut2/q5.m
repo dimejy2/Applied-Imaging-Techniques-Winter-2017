@@ -1,10 +1,10 @@
 %%for some reason this works best with the head scan image
-function doubleimage(imagename)
+function q5(imagename)
 a= imread (imagename);
 figure
 subplot(3,1,1), imshow(a);
 [height,width] = size(a);
-out = zeros(2*height,2*width);
+out = uint8(zeros(2*height,2*width));
 for k = 1 : height
     row = a(k, 1:end);
     for j = 1 : length(row)

@@ -9,7 +9,7 @@ for k = 1 : length(files)
 
     if bitDepth == 8
         reduceRange(name,7, 1);
-    end
+    \end
 end
 
 function reduceRange(name, start, en)
