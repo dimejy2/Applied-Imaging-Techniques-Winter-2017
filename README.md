@@ -10,3 +10,9 @@ This is a repo containing the solutions to the problems from Applied Imaging Tec
 - [x] Question 6
 - [x] Question 7
 
+##Tutorial 3
+- [x] Question 1
+- [x] Question 2
+- [x] Question 3
+- [x] Question 5
+
